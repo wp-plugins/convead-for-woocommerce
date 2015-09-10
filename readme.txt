@@ -1,9 +1,9 @@
 ﻿=== Convead ===
 Contributors: joomline
-Tags: e-commerce, convead, woocommerce
+Tags: e-commerce, convead, woocommerce, widgets, email campaigns, analytics
 Requires at least: 4.2.0
-Tested up to: 4.2.3
-Stable tag: 1.0.2
+Tested up to: 4.3
+Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,14 +27,6 @@ Now you can easily perform all your work with the customers in one service calle
 1. Install plugin from WordPress Plugin Directory or upload `convead` to the `/wp-content/plugins/` directory manually.
 2. Activate plugin through the 'Plugins' menu in WordPress admin panel.
 
-== Screenshots ==
-
-1. Account key metrics and sales funnel.
-2. Visitors segmentation.
-3. Visitor's details and actions timeline.
-4. Widgets constructor.
-5. Email campaigns constructor.
-
 == Frequently Asked Questions ==
 
 = Do I need to register at Convead first to be able to use this plugin? = 
@@ -43,7 +35,23 @@ Yes, you should register at [Convead](http://convead.com/?ref=a261ed475e2a05d4) 
 = Do you have a trial period? =
 Yes we do. You can try full-featured version of Convead for 14 days for free.
 
+== Screenshots ==
+
+1. Account key metrics and sales funnel.
+2. Visitors segmentation.
+3. Visitor's details and actions timeline.
+4. Widgets constructor.
+5. Email campaigns constructor.
+6. Live chat.
+
 == Changelog ==
+
+= 1.0.4 =
+* Go to SSL
+
+= 1.0.3 =
+* Tested up to 4.3.
+* Bump plugin description.
 
 = 1.0.2 =
 * Bump readme.
